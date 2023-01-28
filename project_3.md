@@ -112,3 +112,5 @@ I cd into Todo and run the server using `npm run dev`
 Checked the browser to see if the backend and fronend are in syn.
 
 ![server running](./Images/server_running.png)
+
+Project 3
